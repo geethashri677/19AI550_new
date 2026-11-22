@@ -80,9 +80,13 @@ float movement = Mathf.PingPong(Time.time * moveSpeed, moveDistance) - moveDista
 transform.position = startPos + new Vector3(movement, 0, 0);
 ### Output:
 
+<img width="1920" height="1080" alt="Screenshot 2026-11-22 172334" src="https://github.com/user-attachments/assets/ab1856d1-52bb-4c70-b9c7-71b85c5b7ead" />
 
+<img width="1917" height="1020" alt="Screenshot 2026-11-22 174220" src="https://github.com/user-attachments/assets/64499d0a-966c-482c-98ab-fbe78e5eb3e7" />
 
+<img width="1917" height="1013" alt="Screenshot 2026-11-22 202934" src="https://github.com/user-attachments/assets/f743a5df-064b-4d84-9d6c-4b4acde9381d" />
 
+<img width="1917" height="1016" alt="Screenshot 2026-11-22 203001" src="https://github.com/user-attachments/assets/a6f16688-4dd2-4ba5-908d-0d2d2365182c" />
 
 
 
