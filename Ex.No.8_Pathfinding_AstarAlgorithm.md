@@ -1,6 +1,6 @@
 # Ex.No: 8  Implementation of Path finding using A* algorithm
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER :212225220032 
 ### AIM: 
 To write a program to create graph using waypoints and use A* algorithm to find path between source and destination.
 ### Algorithm:
@@ -131,6 +131,7 @@ public class AICharacter : MonoBehaviour {
         }
     }
 }
+```
 Check the following
 1. Waypoints placed in scene
 2. Neighbors set manually via Inspector
@@ -138,10 +139,17 @@ Check the following
 4. AICharacter assigned a start and goal
 ### Output:
 
+<img width="1920" height="1080" alt="Screenshot 2026-11-22 195633" src="https://github.com/user-attachments/assets/88f0d87e-56bc-4a3e-bb22-4a5a6fe29e6a" />
 
+<img width="1917" height="1018" alt="Screenshot 2026-11-22 200533" src="https://github.com/user-attachments/assets/977db582-5631-4456-9c8b-12a858bddbee" />
 
+<img width="1917" height="1020" alt="Screenshot 2026-11-22 202412" src="https://github.com/user-attachments/assets/ba2a04af-b9b9-4e3a-a825-126d5447d65e" />
 
+<img width="1917" height="1022" alt="Screenshot 2026-11-22 202430" src="https://github.com/user-attachments/assets/6644a4b0-222b-46df-8f1a-40cd3607d9dd" />
 
+<img width="1917" height="1020" alt="Screenshot 2026-11-22 202446" src="https://github.com/user-attachments/assets/374b993b-3d68-45a0-9623-63e8ebb89e45" />
+
+<img width="1917" height="1021" alt="Screenshot 2026-11-22 202505" src="https://github.com/user-attachments/assets/afef6133-bdf7-466c-bd5a-5742dd774968" />
 
 
 
